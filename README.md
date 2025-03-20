@@ -1,7 +1,7 @@
 # **PREDICTION OF BIODIVERSITY INDEX BASED ON HUMAN ACTIVITIES**  
 *Multiple Linear Regression | Environmental Data Analysis*  
 
-![](
+![](cover_image_4.jfif)
 
 ## **INTRODUCTION**  
 Biodiversity is a key indicator of environmental health, but human activities like deforestation, pollution, and land degradation threaten ecosystems. This project applies **Multiple Linear Regression (MLR)** to predict **Biodiversity Index** based on various environmental factors.  
@@ -57,9 +57,13 @@ EDA was conducted to understand **how human activities affect biodiversity**.
 - **Histograms & Box Plots** to visualize distributions and outliers.  
 - **Scatter Plots** to observe relationships between biodiversity index and environmental factors.  
 
+  ![](scatterplot_all_features.png)
+
 ### **3. Correlation Analysis**  
 - **Heatmap** to analyze relationships between variables.  
 - **Pairplot** to visualize feature interactions.  
+
+  ![](heatmap.png)
 
 ### **4. Key Insights**  
 - **Deforestation and land degradation** negatively impact biodiversity.  
@@ -89,6 +93,10 @@ A **Multiple Linear Regression (MLR) model** was built to predict biodiversity i
 - **Residual Plot:** Evaluates model accuracy and error distribution.  
 - **Q-Q Plot:** Checks normality of residuals for regression validity.  
 
+  ![](residual_plot.png)
+  ![](q_q_plot.png)
+  ![](cook_distance.png)
+  
 ---
 
 ## **CONCLUSION**  
